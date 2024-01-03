@@ -7,7 +7,7 @@
     "@material-ui/icons": "^4.2.1",
     "echarts": "^4.2.1",
     "echarts-for-react": "^2.0.15-beta.0",
-    "plotly.js": "^1.49.1",
+    "plotly.js": "^2.25.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-google-charts": "^3.0.14",
